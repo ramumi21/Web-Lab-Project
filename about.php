@@ -41,7 +41,19 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque nobis distinctio, nisi consequatur ad sequi, rem odit fugiat assumenda eligendi iure aut sunt ratione, tempore porro expedita quisquam.</p>
+         <p>At AdabtAble , we are dedicated to transforming the way you learn. Here's why we stand out:</br>
+
+Expert Instructors: Our courses are designed and delivered by industry-leading professionals with real-world experience, ensuring that you gain practical knowledge and skills.</br>
+
+Flexible Learning: Learn at your own pace from anywhere, anytime. Our platform is optimized for mobile and desktop, offering the convenience of learning on your terms.</br>
+
+Comprehensive Courses: Whether you're looking to build a foundation or advance your expertise, our wide range of courses covers all levels—from beginners to professionals.</br>
+
+Interactive and Engaging: We believe learning should be dynamic. Our platform offers interactive quizzes, discussion forums, and hands-on projects to enhance your learning experience.</br>
+
+Affordable and Accessible: We offer competitive pricing with flexible payment plans to make top-quality education accessible to everyone, without compromising on content.</br>
+
+Recognized Certifications: Upon completion, earn industry-recognized certifications that can boost your resume and open doors to new career opportunities.</p>
          <a href="courses.html" class="inline-btn">our courses</a>
       </div>
 
