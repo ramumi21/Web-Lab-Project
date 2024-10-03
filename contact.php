@@ -86,14 +86,14 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <a href="mailto:shaikhanas@gmail.com">shaikhanas@gmail.come</a>
-         <a href="mailto:anasbhai@gmail.com">anasbhai@gmail.come</a>
+         <a href="Adabtable@gmail.com">AdabtAble@gmail.come</a>
+         <a href="Adabtable@gmail.com">AdabtAble@gmail.come</a>
       </div>
 
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>office address</h3>
-         <a href="#">flat no. 1, a-1 building, jogeshwari, mumbai, india - 400104</a>
+         <a href="#">Addis Ababa, Etihopia</a>
       </div>
 
 
